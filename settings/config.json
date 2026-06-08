@@ -1,0 +1,7 @@
+{
+    "download_dir": "downloads",
+    "max_concurrent": 2,
+    "auto_retry": 3,
+    "enable_thumbnail_cache": true,
+    "thumbnail_cache_limit_mb": 100
+}
